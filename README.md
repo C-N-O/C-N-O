@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Clifford Okpai
+- 👀 I’m interested in Web Developement and Front End Engineering
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to collaborate on some interesting projects
+- 📫 How to reach me: message me on LinkedIn: https://www.linkedin.com/in/cliffordokpai/
